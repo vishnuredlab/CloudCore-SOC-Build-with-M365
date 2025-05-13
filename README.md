@@ -1,2 +1,2 @@
 # CloudCore-SOC-Build-with-M365
-Design. Secure. Operate. A Microsoft 365-powered journey from the cloud core to a modern SOC
+Architected and automated a secure, cloud-native organization from the ground up using Microsoft 365, Defender, Entra, Intune, and Azure Sentinel.
